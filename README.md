@@ -125,3 +125,5 @@ Pull requests and suggestions are welcome.
 
 ✅ Add machine learning for Sales Forecasting
 ✅ Deploy dashboard online (Power BI Service / Streamlit App)
+![WhatsApp Image 2025-11-18 at 16 52 09_0b7677c0](https://github.com/user-attachments/assets/61a19ef4-832e-4e3a-b837-df3cb3bd7cb2)
+
